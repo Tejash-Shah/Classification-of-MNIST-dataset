@@ -20,7 +20,7 @@ In addition to applying algorithms, various feature reduction techniques like Pr
 10. DecisionTree with PCA and LDA
 11. GaussianNaiveBayes
 12. GaussianNaiveBayes with PCA and LDA
-13.LogisticRegression with PCA and LDA
+13. LogisticRegression with PCA and LDA
 14. LogisticRegression with L1 Regularization
 15. LogisticRegression with L2 Regularization
 16. RandomForest
